@@ -1,0 +1,13 @@
+@media (min-width: 987px){
+    .row-full{
+        padding: 15px;
+    }
+
+    .row-sm{
+        width: 100%;
+    }
+    .container-fluid{
+        padding: 0px;
+    }
+
+}
